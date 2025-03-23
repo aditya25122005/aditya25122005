@@ -32,9 +32,12 @@
 
 ## 📊 GitHub Stats
 
+
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=aditya25122005&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=aditya25122005&theme=radical" />
+  <img width="50%" height="50%" src="https://github-readme-stats.vercel.app/api?username=aditya25122005&show_icons=true&theme=radical" />
+  <img width="50%"  height="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=aditya25122005&theme=radical" />
+  <img width="50%" height="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditya25122005&layout=compact&theme=tokyonight" alt="Top Languages" />
+
 </p>
 
 ---
