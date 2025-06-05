@@ -14,7 +14,7 @@
 
 - 🎓 Pursuing **B.Tech in Computer Science and Engineering** at GLA University.
 - 💡 Passionate about **Java, DSA, and Web Development**.
-- 🧠 Problem Solver with **400+ LeetCode Problems** solved.
+- 🧠 Problem Solver with **500+ LeetCode Problems** solved.
 - 🌱 Currently learning **JS and Advanced Java**.
 - 📧 Reach me at **aditya25pda@gmail.com**.
 
@@ -44,7 +44,7 @@
 
 ## 🏆 Recent Achievements
 
-- ✅ Solved **400+ Problems** on LeetCode.
+- ✅ Solved **500+ Problems** on LeetCode.
 - ✅ Built a Responsive **Mustard Oil Website** for Padam Traders.
 - ✅ Developed a **Tic Tac Toe Game** in Java.
 - ✅ Participated in various Coding Contests on **Codeforces**.
