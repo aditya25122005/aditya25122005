@@ -9,7 +9,7 @@
 </p>
 
 ---
-
+![Profile views](https://komarev.com/ghpvc/?username=adityamahe2512&color=green&style=flat)
 ## 🌟 About Me
 
 - 🎓 Pursuing **B.Tech in Computer Science and Engineering** at GLA University.
