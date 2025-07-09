@@ -3,6 +3,7 @@
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&center=true&vCenter=true&multiline=true&lines=B.Tech+CSE+@GLA+University;Java+%7C+DSA+%7C+Web+Development;Learning+and+Building+Everyday..." />
+  
 </p>
 
 ---
@@ -25,15 +26,16 @@
 
 ---
 
+
 ## 📈 GitHub Activity
 
 <p align="center">
-  <img width="47%" src="https://github-readme-stats.vercel.app/api?username=Aditya25122005&show_icons=true&theme=radical" />
-  <img width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=Aditya25122005&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Aditya25122005&show_icons=true&theme=radical" width="45%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aditya25122005&theme=radical" width="45%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya25122005&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya25122005&layout=compact&theme=radical" width="60%" />
 </p>
 
 ---
