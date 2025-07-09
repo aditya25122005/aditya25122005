@@ -50,16 +50,17 @@
 
 ---
 
-## 🌐 Connect With Me
-
 <p align="center">
-  <a href="mailto:aditya25pda@gmail.com"><img src="https://img.shields.io/badge/Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/aditya-maheshwari-52a150267/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://codeforces.com/profile/Aditya_Maheshwari"><img src="https://img.shields.io/badge/Codeforces-%23FEFEFE?style=for-the-badge&logo=codeforces&logoColor=black" /></a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&center=true&lines=Thanks+for+visiting+my+profile+%F0%9F%91%8B;Keep+Learning+%F0%9F%93%9A+Keep+Building+%F0%9F%9A%80" />
+  <a href="mailto:aditya25pda@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/aditya-maheshwari-52a150267/">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://codeforces.com/profile/Aditya_Maheshwari">
+    <img src="https://img.shields.io/badge/Codeforces-%23000000?style=for-the-badge&logo=codeforces&logoColor=orange" />
+  </a>
+  <a href="https://leetcode.com/Aditya_Mah2005/">
+    <img src="https://img.shields.io/badge/LeetCode-%23007ACC?style=for-the-badge&logo=leetcode&logoColor=white" />
+  </a>
 </p>
