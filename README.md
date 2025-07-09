@@ -62,7 +62,7 @@
   <a href="https://codeforces.com/profile/Aditya_Maheshwari">
     <img src="https://img.shields.io/badge/Codeforces-%23000000?style=for-the-badge&logo=codeforces&logoColor=orange" />
   </a>
-  <a href="https://leetcode.com/Aditya25122005/">
+  <a href="https://leetcode.com/Aditya_mah2005/">
     <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=FFA116" />
   </a>
 </p>
