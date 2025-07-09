@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Computer Science Undergrad | Java Enthusiast | Web Developer | Problem Solver</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&center=true&vCenter=true&multiline=true&lines=B.Tech+CSE+@GLA+University;Java+%7C+DSA+%7C+Web+Development;Learning+and+Building+Everyday..." height="100px" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&center=true&vCenter=true&multiline=true&lines=B.Tech+CSE+@GLA+University;Java+%7C+DSA+%7C+Web+Development;Learning+and+Building+Everyday..." width="100%" />
 </p>
 
 ---
@@ -28,12 +28,14 @@
 ## 📈 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aditya25122005&show_icons=true&theme=radical" width="45%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya25122005&layout=compact&theme=radical" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Aditya25122005&show_icons=true&theme=radical&border_radius=10&count_private=true" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya25122005&layout=compact&theme=radical&border_radius=10" width="45%" />
 </p>
 
+<br/>
+
 <p align="center">
-  <img src="https://ghchart.rshah.org/36BCF7/Aditya25122005" alt="Aditya's GitHub chart" />
+  <img src="https://ghchart.rshah.org/36BCF7/Aditya25122005" alt="Aditya's GitHub chart" width="90%" />
 </p>
 
 ---
