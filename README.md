@@ -9,10 +9,10 @@
 
 ## 🧠 About Me
 
-- 🎓 B.Tech CSE (2nd Year) @ GLA University  
+- 🎓 B.Tech CSE (3rd Year) @ GLA University  
 - 💻 Practicing **DSA in Java** and building projects in **Web Development**  
 - 🌱 Currently exploring **React.js, Node.js, MongoDB**  
-- 💡 300+ problems solved on LeetCode, Codeforces, and other platforms  
+- 💡 500+ problems solved on LeetCode
 - 🛠️ Interested in real-world problem solving, software design & version control
 
 ---
