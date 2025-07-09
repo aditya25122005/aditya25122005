@@ -1,64 +1,41 @@
-<h1 align="center">Hey there! 👋 I'm Aditya Maheshwari</h1>
-<p align="center">B.Tech CSE Student | Problem Solver | Developer</p>
+<h1 align="center">🚀 Hey there, I'm <span style="color:#007acc;">Aditya Maheshwari</span> 👋</h1> <p align="center"><strong>B.Tech CSE Student | 💻 Problem Solver | 🌐 Web & Java Developer</strong></p> <p align="center"> <a href="https://linkedin.com/in/aditya-maheshwari-52a150267"> <img src="https://img.shields.io/badge/LinkedIn-Connect-blueviolet?style=for-the-badge&logo=linkedin" /> </a> <a href="https://codeforces.com/profile/Aditya_Maheshwari"> <img src="https://img.shields.io/badge/Codeforces-Aditya_Maheshwari-orange?style=for-the-badge&logo=codeforces" /> </a> <a href="https://leetcode.com/Aditya_Mah2005/"> <img src="https://img.shields.io/badge/LeetCode-500%2B%20Solved-yellow?style=for-the-badge&logo=leetcode" /> </a> </p> <p align="center"> <img src="https://komarev.com/ghpvc/?username=aditya25122005&label=Profile%20Views&color=brightgreen&style=flat-square" alt="profile views" /> </p>
+🧠 About Me
+🎓 2nd Year B.Tech CSE student at GLA University
 
-<p align="center">
-  <a href="https://linkedin.com/in/aditya-maheshwari-52a150267"><img src="https://img.shields.io/badge/LinkedIn-Aditya%20Maheshwari-blue?style=flat-square&logo=linkedin" /></a>
-  <a href="https://codeforces.com/profile/Aditya_Maheshwari"><img src="https://img.shields.io/badge/Codeforces-Aditya_Maheshwari-red?style=flat-square&logo=codeforces" /></a>
-  <a href="https://leetcode.com/Aditya_Mah2005/"><img src="https://img.shields.io/badge/LeetCode-Aditya_Maheshwari-orange?style=flat-square&logo=leetcode" /></a>
+💡 Deep interest in Java, DSA, and Frontend Development
 
-</p>
+💻 Solved 500+ LeetCode Problems and counting
 
----
-![Profile views](https://komarev.com/ghpvc/?username=adityamahe2512&color=green&style=flat)
-## 🌟 About Me
+🚀 Always learning — currently diving into Advanced Java & JS
 
-- 🎓 Pursuing **B.Tech in Computer Science and Engineering** at GLA University.
-- 💡 Passionate about **Java, DSA, and Web Development**.
-- 🧠 Problem Solver with **500+ LeetCode Problems** solved.
-- 🌱 Currently learning **JS and Advanced Java**.
-- 📧 Reach me at **aditya25pda@gmail.com**.
+📬 Let's connect: aditya25pda@gmail.com
 
----
+🔧 Tech Toolbox
+💻 Languages	🌐 Web	⚙️ Backend	🗃️ Databases	🛠️ Tools
+Java, C, Python	HTML, CSS, JavaScript	Node.js (Basics)	MySQL, MongoDB	Git, GitHub, VS Code, Eclipse, IntelliJ
 
-## 🛠️ Tech Stack
+📈 GitHub Analytics
+<p align="center"> <img width="45%" src="https://github-readme-stats.vercel.app/api?username=aditya25122005&show_icons=true&theme=radical" alt="GitHub Stats" /> <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=aditya25122005&theme=radical" alt="GitHub Streak" /> </p> <p align="center"> <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditya25122005&layout=compact&theme=tokyonight" alt="Top Languages" /> </p>
+🏆 Highlights & Achievements
+✨ What I've been up to lately:
 
-- **Languages:** Java, C, Python
-- **Frontend:** HTML, CSS, JavaScript
-- **Backend:** Node.js (Basics)
-- **Databases:** MySQL, MongoDB
-- **Tools & Platforms:** Git, GitHub, VS Code, Eclipse, IntelliJ
+✅ Solved over 500 LeetCode challenges 🧩
 
----
+🖥️ Built a responsive Mustard Oil Website for Padam Traders
 
-## 📊 GitHub Stats
+🎮 Created a classic Tic Tac Toe game using Java
 
+🧠 Regular contestant on Codeforces
 
-<p align="center">
-  <img width="50%" height="50%" src="https://github-readme-stats.vercel.app/api?username=aditya25122005&show_icons=true&theme=radical" />
-  <img width="50%"  height="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=aditya25122005&theme=radical" />
-  <img width="50%" height="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditya25122005&layout=compact&theme=tokyonight" alt="Top Languages" />
+🌍 Let's Connect
+<p align="center"> <a href="https://linkedin.com/in/aditya-maheshwari-52a150267"> <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0077B5?style=for-the-badge&logo=linkedin" /> </a> <a href="https://codeforces.com/profile/Aditya_Maheshwari"> <img src="https://img.shields.io/badge/Codeforces-Check%20My%20Contests-orange?style=for-the-badge&logo=codeforces" /> </a> </p>
+💬 Fun Fact
+✨ I believe in "Stay Simple and Be Good." It’s my code for life. 🙌
 
-</p>
+Let me know if you'd like to add:
 
----
+🎯 A project showcase gallery
 
-## 🏆 Recent Achievements
+⏱️ A WPM typing speed demo
 
-- ✅ Solved **500+ Problems** on LeetCode.
-- ✅ Built a Responsive **Mustard Oil Website** for Padam Traders.
-- ✅ Developed a **Tic Tac Toe Game** in Java.
-- ✅ Participated in various Coding Contests on **Codeforces**.
-
----
-
-## 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://linkedin.com/in/aditya-maheshwari-52a150267"><img src="https://img.shields.io/badge/LinkedIn-Aditya%20Maheshwari-blue?style=for-the-badge&logo=linkedin" /></a>
-  <a href="https://codeforces.com/profile/Aditya_Maheshwari"><img src="https://img.shields.io/badge/Codeforces-Aditya_Maheshwari-red?style=for-the-badge&logo=codeforces" /></a>
-</p>
-
----
-
-## 💡 Fun Fact
-💬 I believe in **"Stay Simple and Be Good."**  
+🗓️ An "On This Journey Since..." timeline
