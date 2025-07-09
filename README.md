@@ -2,8 +2,7 @@
 <h3 align="center">🚀 Computer Science Undergrad | Java Enthusiast | Web Developer | Problem Solver</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&center=true&vCenter=true&multiline=true&lines=B.Tech+CSE+@GLA+University;Java+%7C+DSA+%7C+Web+Development;Learning+and+Building+Everyday..." />
-  
+  <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&center=true&vCenter=true&multiline=true&lines=B.Tech+CSE+@GLA+University;Java+%7C+DSA+%7C+Web+Development;Learning+and+Building+Everyday..." width="100%" />
 </p>
 
 ---
