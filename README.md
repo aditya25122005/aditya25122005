@@ -50,6 +50,8 @@
 
 ---
 
+## 🌐 Connect With Me
+
 <p align="center">
   <a href="mailto:aditya25pda@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -60,7 +62,7 @@
   <a href="https://codeforces.com/profile/Aditya_Maheshwari">
     <img src="https://img.shields.io/badge/Codeforces-%23000000?style=for-the-badge&logo=codeforces&logoColor=orange" />
   </a>
-  <a href="https://leetcode.com/Aditya_Mah2005/">
-    <img src="https://img.shields.io/badge/LeetCode-%23007ACC?style=for-the-badge&logo=leetcode&logoColor=white" />
+  <a href="https://leetcode.com/Aditya25122005/">
+    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=FFA116" />
   </a>
 </p>
