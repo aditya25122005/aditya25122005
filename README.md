@@ -26,16 +26,15 @@
 
 ---
 
-
 ## 📈 GitHub Activity
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Aditya25122005&show_icons=true&theme=radical" width="45%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aditya25122005&theme=radical" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya25122005&layout=compact&theme=radical" width="45%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya25122005&layout=compact&theme=radical" width="60%" />
+  <img src="https://ghchart.rshah.org/36BCF7/Aditya25122005" alt="Aditya's GitHub chart" />
 </p>
 
 ---
