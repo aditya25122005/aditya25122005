@@ -27,10 +27,21 @@
 
 ## 📈 GitHub Activity
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aditya25122005&show_icons=true&theme=radical&border_radius=10&count_private=true" width="45%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya25122005&layout=compact&theme=radical&border_radius=10" width="45%" />
-</p>
+<div align="center">
+
+  <img src="https://github-readme-stats.vercel.app/api?username=Aditya25122005&show_icons=true&theme=radical&border_radius=10&count_private=true" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya25122005&layout=compact&theme=radical&border_radius=10" height="180em" />
+
+  <br/><br/>
+
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=aditya25122005&theme=tokyonight" height="200em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditya25122005&layout=pie&theme=radical" height="200em" />
+
+</div>
+
+
+### 🗺️ Contribution Graph
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=aditya25122005&theme=tokyo-night)
 
 <br/>
 
