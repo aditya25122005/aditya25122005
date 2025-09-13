@@ -12,7 +12,7 @@
 - 🎓 B.Tech CSE (3rd Year) @ GLA University  
 - 💻 Practicing **DSA in Java** and building projects in **Web Development**  
 - 🌱 Currently exploring **React.js, Node.js, MongoDB**  
-- 💡 500+ problems solved on LeetCode
+- 💡 650+ problems solved on LeetCode
 - 🛠️ Interested in real-world problem solving, software design & version control
 
 ---
@@ -29,8 +29,8 @@
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=Aditya25122005&show_icons=true&theme=radical&border_radius=10&count_private=true" height="180em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya25122005&layout=compact&theme=radical&border_radius=10" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aditya25122005&show_icons=true&theme=radical&border_radius=10&count_private=true" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditya25122005&layout=compact&theme=radical&border_radius=10" height="180em" />
 
   <br/><br/>
 
@@ -46,7 +46,7 @@
 <br/>
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/00C853/Aditya25122005" alt="Aditya's GitHub chart" width="90%" />
+  <img src="https://ghchart.rshah.org/00C853/aditya25122005" alt="Aditya's GitHub chart" width="90%" />
 </p>
 
 ---
