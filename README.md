@@ -12,7 +12,7 @@
 - 🎓 B.Tech CSE (3rd Year) @ GLA University  
 - 💻 Practicing **DSA in Java** and building projects in **Web Development**  
 - 🌱 Currently exploring **React.js, Node.js, MongoDB**  
-- 💡 650+ problems solved on LeetCode
+- 💡 800+ problems solved on LeetCode
 - 🛠️ Interested in real-world problem solving, software design & version control
 
 ---
@@ -24,6 +24,16 @@
 </p>
 
 ---
+## 🏅 Coding Profiles
+
+<div align="center">
+
+### 💡 **LeetCode Journey**
+
+<img src="https://leetcard.jacoblin.cool/Aditya_mah2005?theme=dark&font=Ubuntu&ext=contest&border=2&radius=20" width="60%"/>
+
+<br/>
+
 
 ## 📈 GitHub Activity
 
