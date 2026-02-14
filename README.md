@@ -12,7 +12,7 @@
 - 🎓 B.Tech CSE (3rd Year) @ GLA University  
 - 💻 Practicing **DSA in Java** and building projects in **Web Development**  
 - 🌱 Currently exploring **React.js, Node.js, MongoDB**  
-- 💡 900+ problems solved on LeetCode
+- 💡 1000+ problems solved on LeetCode
 - 🛠️ Interested in real-world problem solving, software design & version control
 
 ---
