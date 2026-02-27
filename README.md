@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Aditya Maheshwari</h1>
+<h1 align="center">Hi 👋, I'm Aditya Maheshwari </h1>
 <h3 align="center">🚀 Computer Science Undergrad | Java Enthusiast | Web Developer | Problem Solver</h3>
 
 <p align="center">
